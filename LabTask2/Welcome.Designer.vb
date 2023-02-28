@@ -33,8 +33,8 @@ Partial Class Welcome
         Me.DetailsLayoutPanel = New System.Windows.Forms.TableLayoutPanel()
         Me.Version = New System.Windows.Forms.Label()
         Me.Copyright = New System.Windows.Forms.Label()
-        Me.ApplicationTitle = New System.Windows.Forms.Label()
         Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
+        Me.ApplicationTitle = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.MainLayoutPanel.SuspendLayout()
         Me.DetailsLayoutPanel.SuspendLayout()
@@ -110,6 +110,13 @@ Partial Class Welcome
         Me.Copyright.TabIndex = 2
         Me.Copyright.Text = "Copyright"
         '
+        'ProgressBar1
+        '
+        Me.ProgressBar1.Location = New System.Drawing.Point(246, 221)
+        Me.ProgressBar1.Name = "ProgressBar1"
+        Me.ProgressBar1.Size = New System.Drawing.Size(453, 23)
+        Me.ProgressBar1.TabIndex = 2
+        '
         'ApplicationTitle
         '
         Me.ApplicationTitle.Anchor = System.Windows.Forms.AnchorStyles.None
@@ -122,13 +129,6 @@ Partial Class Welcome
         Me.ApplicationTitle.TabIndex = 0
         Me.ApplicationTitle.Text = "Car's Spare Parts Co."
         Me.ApplicationTitle.TextAlign = System.Drawing.ContentAlignment.BottomLeft
-        '
-        'ProgressBar1
-        '
-        Me.ProgressBar1.Location = New System.Drawing.Point(246, 221)
-        Me.ProgressBar1.Name = "ProgressBar1"
-        Me.ProgressBar1.Size = New System.Drawing.Size(453, 23)
-        Me.ProgressBar1.TabIndex = 2
         '
         'Timer1
         '

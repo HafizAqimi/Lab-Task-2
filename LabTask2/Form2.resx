@@ -61,7 +61,7 @@
   <data name="PictureBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAVkAAAEWCAYAAADM/ORiAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAA3YJJREFUeF7snQVgFNfXxeMuRIlAQohAXIghIbi7Fnd3d3d3d3fX4pRSaCmluLu7
+        wQAADsEBuJFr7QAA3YJJREFUeF7snQVgFNfXxeMuRIlAQohAXIghIbi7Fnd3d3d3d3fX4pRSaCmluLu7
         E5JAz3fvm51kdlkCtOX/tWUuPZ313cy8+c1595kB1FBDDTXU+GqhQlYNNdRQ4yuGClk11FBDja8YKmTV
         UEMNNb5iqJBVQw011PiKoUJWDTXUUOMrhgpZNdRQQ42vGCpk1VBDDTW+YqiQVUMNNdT4iqFCVg011FDj
         K4YKWTXUUEONrxgqZNVQQw01vmKokFVDDTXU+IqhQlYNNdRQ4yuGClk11FBDja8YKmTVUEMNNb5iqJBV
@@ -1012,7 +1012,7 @@
   <data name="PictureBox2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABUAAAAYCAYAAAAVibZIAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1
-        MAAA6mAAADqYAAAXcJy6UTwAAAAJcEhZcwAADsIAAA7CARUoSoAAAAAHdElNRQfnAhsOAwVrlIgiAAAD
+        MAAA6mAAADqYAAAXcJy6UTwAAAAJcEhZcwAADsEAAA7BAbiRa+0AAAAHdElNRQfnAhsOAwVrlIgiAAAD
         dElEQVRIS+1UW0gUYRQ+bVD0UFIh3dTK9bK32ft9ZnfWbbJdzd1qg3rYgnqICrugEYFgUBqaXQgiCgoJ
         9MUIMiofisqooOihy0OFRPSSUGnuakWmbd8/O1sho+9BBz7m/8/5zvef81+G/ttv40PVJIRXkzuwitzC
         5PCLVaSz8LRpy3YlcwrjK6pJXBmfjsTZLr5yjiqEyjn+UNVMvVUgnZlXMqcwHecjoy1QozP7HwOPJsET

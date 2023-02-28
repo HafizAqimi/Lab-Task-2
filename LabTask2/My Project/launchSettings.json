@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LabTask2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\aqimi\\OneDrive\\Documents\\SEM 4 S2 20222023\\DFP40233 VBP\\Microsoft Visual Basic\\LabTask2\\LabTask2\\LabTask2\\bin\\Debug",
+      "remoteDebugEnabled": true,
+      "authenticationMode": "Windows"
+    }
+  }
+}
